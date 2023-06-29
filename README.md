@@ -1,6 +1,5 @@
 TECH ACRONYMS QUIZ APP
 
-<img src="/tech-acronyms-quiz-app/assets/Simulator Screenshot - iPhone 14 Pro Max - 2023-06-30 at 04.09.55">
 
 A new Flutter project.
 
