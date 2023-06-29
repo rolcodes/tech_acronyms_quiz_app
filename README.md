@@ -1,9 +1,10 @@
+
 TECH ACRONYMS QUIZ APP
 
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-06-30 at 04 09 55](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/e81a042b-7272-4f81-9509-5b6c26ef7159)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-06-30 at 04 09 59](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/d75cee59-d555-4350-8395-0b2faee830a8)
-![Simulator Screenshot - iPhone 14 Pro Max - 2023-06-30 at 04 11 27](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/9c0b96ea-1577-4791-8a23-8245cc6dc2f8)
-
+## Screenshots
+![ss1](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/0e090fad-1e07-46c9-8838-82b287a73472)
+![ss2](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/5e9e871a-be9f-4073-88d9-c67f0097bcfc)
+![ss3](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/799cb7ed-6f02-4a59-9e2a-59a2f671cc95)
 
 A new Flutter project.
 
