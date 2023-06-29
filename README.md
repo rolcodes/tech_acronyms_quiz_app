@@ -4,10 +4,7 @@
 ## Screenshots
 ![ss1](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/0dc64519-4a2d-44da-80ef-eed9df78216d)
 ![ss2](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/eb4efd27-10b6-46e1-8190-6304db93283f)
-![ss3](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/a5642efc-90fc-422e-9a6d-3cc4ea16a0f3)
-
-
-
+![ss3](https://github.com/jiroldev/tech-acronyms-quiz-app/assets/132939427/ff1af69d-3a4f-43d4-b130-8a448f9fd373)
 
 A new Flutter project.
 
